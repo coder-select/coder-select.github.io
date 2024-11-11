@@ -1,0 +1,3 @@
+#!/bin/sh
+.bin/make-contents.sh
+.bin/check-contents.sh
